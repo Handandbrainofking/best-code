@@ -1,0 +1,23 @@
+{
+  "name": "code-box",
+  "version": "1.0.0",
+  "description": "code rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Handandbrainofking/best-code.git"
+  },
+  "keywords": [
+    "code",
+    "box"
+  ],
+  "author": "zoiew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Handandbrainofking/best-code/issues"
+  },
+  "homepage": "https://github.com/Handandbrainofking/best-code#readme"
+}
